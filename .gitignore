@@ -1,0 +1,18 @@
+# Entorno virtual y dependencias de Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos temporales / comprimidos
+*.rar
+*.zip
+
+# VS Code
+.vscode/
+
+# Sesiones locales generadas por ejecuciones
+sesiones_juego_dedos.json
+perfiles_juego.json
